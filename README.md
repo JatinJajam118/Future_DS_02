@@ -1,9 +1,3 @@
-# Customer Retention & Churn Analysis Dashboard
-
-![Customer Retention Dashboard](Dashboard_Main01.png)
-
----
-
 # 📌 Project Overview
 
 The **Customer Retention & Churn Analysis Dashboard** is an interactive business intelligence project built using **Power BI** to analyze customer retention patterns, churn behavior, and customer service insights.
@@ -288,16 +282,3 @@ Through interactive visualizations and KPI monitoring, decision-makers can impro
 
 ---
 
-# 👨‍💻 Author
-
-## Jatin Jajam
-
-Aspiring Data Analyst | Power BI Developer | Business Intelligence Enthusiast
-
----
-
----
-
-# 📜 License
-
-This project is for educational and portfolio purposes.
